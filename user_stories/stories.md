@@ -8,7 +8,7 @@
   <li>Kokker trenger planlegger for å holde oversikt over matlaging</li>
   <li>En syk person trenger en planlegger for å holde styr på medisiner</li>
   <li>Studenter trenger å holde styr på studiet og oppgaver</li> 
-  <li>Sjefer trenger en planlegger for å ha oversikt over vaktlister(div)</li>
+  <li>Sjefer trenger en planlegger for å ha oversikt over vaktlister</li>
   
 
 </ul>
