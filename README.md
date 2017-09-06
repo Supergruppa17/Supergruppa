@@ -1,8 +1,8 @@
 # Supergruppa
 
 
-Gruppemedlemmer:
-Maren Walby Østby - https://github.com/marenwalby
-Tonje Fjeldstad Markseth - https://github.com/Tonjfm
-Hanna Johnsen Sætre - https://github.com/hannasaetre
-Karen Thorsen - https://github.com/karenthorsen
+<h1>Gruppemedlemmer:</h1>
+<p>Maren Walby Østby - https://github.com/marenwalby</p>
+<p>Tonje Fjeldstad Markseth - https://github.com/Tonjfm</p>
+<p>Hanna Johnsen Sætre - https://github.com/hannasaetre</p>
+<p>Karen Thorsen - https://github.com/karenthorsen</p>
