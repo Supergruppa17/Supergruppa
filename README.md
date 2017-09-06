@@ -1,4 +1,7 @@
 # Supergruppa
 
-Team members:
-karenthorsen - https://github.com/karenthorsen
+
+Gruppemedlemmer:
+Maren Walby Østby - https://github.com/marenwalby
+Tonje Fjeldstad Markseth - https://github.com/Tonjfm
+
