@@ -17,3 +17,7 @@
 <h1>Story points</h1>
 <br>
 <p>25 timer tilsvarer 3 dager. Vi er fire på gruppen. 3 * 4 = 12, så det blir 12 dager.</p>
+<br>
+<h1>Project board</h1>
+<br>
+<p>https://trello.com/b/i4D042ii/supergruppa</p>
