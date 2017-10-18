@@ -1,13 +1,15 @@
-const express = require('express')
-const app = express()
 
-app.use(express.static('public'))
+const url = require('url');
+const express = require('express');
+const bodyParser = require('body-parser');
 
-//greeting array
-
-
+const app = express();
 
 
-app.listen(process.env.PORT || 3000, function(){
-  console.log("Express server listening on port %d in %s mode", this.address().port, app.settings.env);
+app.set('port', (process.env.PORT || 8080));
+app.use(express.static('public'));
+app.listen(app.get('port'), function() {
+    console.log("Super server is running", app.get("port"));
 });
+
+
