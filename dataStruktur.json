@@ -1,0 +1,32 @@
+{
+    "name": { 
+        "type": "string"
+        "description": "Navnet brukeren har gitt"
+    }
+    
+    "belongsTo": {
+        "type": "string"
+        "description": "Navnet brukeren har gitt"
+    }
+    
+    "toDo" {
+        "type": "Array"
+        "items": [
+            { 
+                "beskrivelse": {"type": "string"}
+                "dato": {"type": "dato"}
+            }
+        ]
+    }
+    
+    "Done" {
+        "type": "Array"
+        "items": [
+            { 
+                "beskrivelse": {"type": "string"}
+                "dato": {"type": "dato"}
+            }
+        ]
+    }
+    
+}
