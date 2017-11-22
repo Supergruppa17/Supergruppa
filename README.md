@@ -24,4 +24,8 @@
 <br>
 <h1>Heroku app</h1>
 <br>
-<p>https://supergruppa17.herokuapp.com/</p>
+<p>https://supergruppa.herokuapp.com/</p>
+<br>
+<h1>Ny GitHub</h1>
+<br>
+<p>https://github.com/Supergruppa17/todolist</p>
